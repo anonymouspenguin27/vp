@@ -1,0 +1,21 @@
+Input:walk
+Output:
+```
+{
+	“expression”:”neutral”
+}
+```
+Input:you’re a good boy!
+Output:
+```
+{
+	“expression”:”happy”
+}
+```
+Input:no more cookies for you!
+Output:
+```
+{
+	“expression”:”sad”
+}
+```

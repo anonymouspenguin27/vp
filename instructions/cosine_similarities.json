@@ -1,0 +1,802 @@
+[
+    {
+        "text": "Wiggle your left hand in the air.",
+        "s": 0.4746227543829838
+    },
+    {
+        "text": "Flick your left hand in the air.",
+        "s": 0.4706964445653513
+    },
+    {
+        "text": "Point your left hand forward.",
+        "s": 0.47045212456368435
+    },
+    {
+        "text": "Wave your left hand.",
+        "s": 0.4686116688678424
+    },
+    {
+        "text": "Wiggle your right hand in the air.",
+        "s": 0.46417648141257517
+    },
+    {
+        "text": "Point your right hand forward.",
+        "s": 0.46062131713883414
+    },
+    {
+        "text": "Wave your right hand.",
+        "s": 0.4587774260409763
+    },
+    {
+        "text": "Shake your left hand.",
+        "s": 0.4552661262726231
+    },
+    {
+        "text": "Point both hands forward.",
+        "s": 0.45370118341274807
+    },
+    {
+        "text": "Stretch your right hand upward.",
+        "s": 0.45055386644103473
+    },
+    {
+        "text": "Stretch your left hand upward.",
+        "s": 0.45001607989676184
+    },
+    {
+        "text": "Pat your head with your left hand.",
+        "s": 0.4497343339186619
+    },
+    {
+        "text": "Swing your right hand to the side.",
+        "s": 0.44747706775543955
+    },
+    {
+        "text": "Clap your hands behind your back.",
+        "s": 0.44730764301197345
+    },
+    {
+        "text": "Swing your left hand to the side.",
+        "s": 0.44691595740753937
+    },
+    {
+        "text": "Shake your right hand.",
+        "s": 0.44563300029923664
+    },
+    {
+        "text": "Hold both hands together in front of you.",
+        "s": 0.44490294623762056
+    },
+    {
+        "text": "Pat your head with your right hand.",
+        "s": 0.44438736336859835
+    },
+    {
+        "text": "Point both hands upward.",
+        "s": 0.443731177952307
+    },
+    {
+        "text": "Cross your right hand over your left hand.",
+        "s": 0.44232618481815367
+    },
+    {
+        "text": "Point both hands downward.",
+        "s": 0.44147284446358837
+    },
+    {
+        "text": "Wiggle your left foot.",
+        "s": 0.4412308671398061
+    },
+    {
+        "text": "Wiggle your left foot.",
+        "s": 0.4412308671398061
+    },
+    {
+        "text": "Flap both hands simultaneously.",
+        "s": 0.4409240732453231
+    },
+    {
+        "text": "Clap your hands in front of you.",
+        "s": 0.4406313498368044
+    },
+    {
+        "text": "Pretend to push something with your right hand.",
+        "s": 0.43927220302526115
+    },
+    {
+        "text": "Stretch your left hand to the left.",
+        "s": 0.438629726480694
+    },
+    {
+        "text": "Cross your left hand over your right hand.",
+        "s": 0.43605809216032665
+    },
+    {
+        "text": "Wiggle your right foot.",
+        "s": 0.4357410031888099
+    },
+    {
+        "text": "Pretend to pick something up with your right hand.",
+        "s": 0.43557011778572213
+    },
+    {
+        "text": "Wiggle both hands in the air.",
+        "s": 0.43527748851989245
+    },
+    {
+        "text": "Pretend to push something with your left hand.",
+        "s": 0.4352448702014741
+    },
+    {
+        "text": "Bring your hands together.",
+        "s": 0.4340105391990289
+    },
+    {
+        "text": "Pretend to pick something up with your left hand.",
+        "s": 0.4314675752778323
+    },
+    {
+        "text": "Stretch your right hand to the right.",
+        "s": 0.4305308091894601
+    },
+    {
+        "text": "Move your left hand towards your mouth.",
+        "s": 0.4275186479995849
+    },
+    {
+        "text": "Tap your left foot twice.",
+        "s": 0.4253441351183924
+    },
+    {
+        "text": "Uncross your hands.",
+        "s": 0.42459922805056277
+    },
+    {
+        "text": "Hold up one hand in the air.",
+        "s": 0.4242358733815256
+    },
+    {
+        "text": "Cross your hands in front of you.",
+        "s": 0.4241350399502682
+    },
+    {
+        "text": "Cross your right foot over your left foot.",
+        "s": 0.4216483344079392
+    },
+    {
+        "text": "Swing your left foot forward.",
+        "s": 0.4215698074736891
+    },
+    {
+        "text": "Pretend to dance with your hands.",
+        "s": 0.42089747996251997
+    },
+    {
+        "text": "Hold up both hands in the air.",
+        "s": 0.41971625733669726
+    },
+    {
+        "text": "Clap your hands above your head.",
+        "s": 0.41925557352758946
+    },
+    {
+        "text": "Shake your head left to right.",
+        "s": 0.4189245778309266
+    },
+    {
+        "text": "Tap your right foot twice.",
+        "s": 0.41854880172963943
+    },
+    {
+        "text": "Pretend to yawn using your left hand.",
+        "s": 0.41849799182157693
+    },
+    {
+        "text": "Shake your right foot.",
+        "s": 0.41561691390993394
+    },
+    {
+        "text": "Tap your left foot three times.",
+        "s": 0.41517813245656654
+    },
+    {
+        "text": "Pretend to yawn using your right hand.",
+        "s": 0.4129461054196757
+    },
+    {
+        "text": "Clap your hands twice.",
+        "s": 0.41190717365205265
+    },
+    {
+        "text": "Swing your right foot forward.",
+        "s": 0.4113823559614988
+    },
+    {
+        "text": "Cross your left foot over your right foot.",
+        "s": 0.41127333632927354
+    },
+    {
+        "text": "Pretend to eat something with your right hand.",
+        "s": 0.4110465172710492
+    },
+    {
+        "text": "Raise your hands above your head.",
+        "s": 0.41020885567373244
+    },
+    {
+        "text": "Scratch your head with your right hand.",
+        "s": 0.41008932224286865
+    },
+    {
+        "text": "Sway from side to side with both hands.",
+        "s": 0.41008334959026854
+    },
+    {
+        "text": "Scratch your head with your left hand.",
+        "s": 0.40971493012767557
+    },
+    {
+        "text": "Stomp your left foot.",
+        "s": 0.40893539059016243
+    },
+    {
+        "text": "Stomp your left foot.",
+        "s": 0.40893539059016243
+    },
+    {
+        "text": "Stretch your left foot forward.",
+        "s": 0.40764630679479796
+    },
+    {
+        "text": "Clap your hands together twice.",
+        "s": 0.4068943883684756
+    },
+    {
+        "text": "Tilt your head to the right.",
+        "s": 0.40659860645415064
+    },
+    {
+        "text": "Pretend to be excited with your hands.",
+        "s": 0.4054773698275477
+    },
+    {
+        "text": "Stomp your right foot.",
+        "s": 0.40520603588921045
+    },
+    {
+        "text": "Stomp your right foot.",
+        "s": 0.40520603588921045
+    },
+    {
+        "text": "Tilt your head to the left.",
+        "s": 0.4051960219006783
+    },
+    {
+        "text": "Stretch your right foot forward.",
+        "s": 0.40506262679169674
+    },
+    {
+        "text": "Stretch your hands outward.",
+        "s": 0.4048324367054885
+    },
+    {
+        "text": "Tap your right foot three times.",
+        "s": 0.40466379343751885
+    },
+    {
+        "text": "Pretend to be scared with your hands.",
+        "s": 0.4045924651494451
+    },
+    {
+        "text": "Raise both hands.",
+        "s": 0.4035274243946225
+    },
+    {
+        "text": "Pretend to eat something with your left hand.",
+        "s": 0.40316206623683715
+    },
+    {
+        "text": "Lower both hands.",
+        "s": 0.4030567635656538
+    },
+    {
+        "text": "Pat your belly with your right hand.",
+        "s": 0.4017672009674113
+    },
+    {
+        "text": "Pat your belly with your left hand.",
+        "s": 0.40095399738067394
+    },
+    {
+        "text": "Hold up one hand in the air for emphasis.",
+        "s": 0.40094818260677656
+    },
+    {
+        "text": "Lift your left foot.",
+        "s": 0.39816160232250025
+    },
+    {
+        "text": "Pretend to shiver with your hands.",
+        "s": 0.3979839120518845
+    },
+    {
+        "text": "Kick with your left foot.",
+        "s": 0.3972447590630394
+    },
+    {
+        "text": "Clap your hands once.",
+        "s": 0.3968440669590143
+    },
+    {
+        "text": "Clap your hands once.",
+        "s": 0.3968440669590143
+    },
+    {
+        "text": "Take a step forward with your right foot.",
+        "s": 0.3945363659996071
+    },
+    {
+        "text": "Kick with your right foot.",
+        "s": 0.39327720764540564
+    },
+    {
+        "text": "Wipe your beak with your left hand.",
+        "s": 0.3920685036470372
+    },
+    {
+        "text": "Clap your hands together three times.",
+        "s": 0.3919829444544526
+    },
+    {
+        "text": "Pretend to wake up with your hands.",
+        "s": 0.39139932695965546
+    },
+    {
+        "text": "Clench both fists.",
+        "s": 0.3912644441043824
+    },
+    {
+        "text": "Lift your right foot.",
+        "s": 0.39118619964900186
+    },
+    {
+        "text": "Sway your head from side to side.",
+        "s": 0.389737596706889
+    },
+    {
+        "text": "Shake your head from side to side.",
+        "s": 0.38929972667176616
+    },
+    {
+        "text": "Lower your hands to your sides.",
+        "s": 0.3874325891006119
+    },
+    {
+        "text": "Jump up and click your heels together.",
+        "s": 0.3863263597359364
+    },
+    {
+        "text": "Swirl your hands around each other.",
+        "s": 0.3853418540615815
+    },
+    {
+        "text": "Wave both hands frantically.",
+        "s": 0.3849430052732999
+    },
+    {
+        "text": "Pretend to sneeze with your hands.",
+        "s": 0.3847746764105519
+    },
+    {
+        "text": "Pretend to be surprised with your hands.",
+        "s": 0.3847741928302517
+    },
+    {
+        "text": "Pretend to swim with your hands.",
+        "s": 0.3845177659364509
+    },
+    {
+        "text": "Hold up both hands in the air for victory.",
+        "s": 0.3841272495180844
+    },
+    {
+        "text": "Sway your head from side to side quickly.",
+        "s": 0.38360621685353596
+    },
+    {
+        "text": "Clench both fists tightly.",
+        "s": 0.38245110755092093
+    },
+    {
+        "text": "Pretend to dance with your feet.",
+        "s": 0.38087246564286986
+    },
+    {
+        "text": "Place your hands on your hips.",
+        "s": 0.3806196181669931
+    },
+    {
+        "text": "Pretend to balance on one foot.",
+        "s": 0.3801763930737819
+    },
+    {
+        "text": "Wiggle your toes.",
+        "s": 0.3801206239581294
+    },
+    {
+        "text": "Take two small steps to the left.",
+        "s": 0.37964827972544246
+    },
+    {
+        "text": "Hold a pretend microphone with one hand.",
+        "s": 0.37941538183782386
+    },
+    {
+        "text": "Clench one fist tightly.",
+        "s": 0.3774738763283973
+    },
+    {
+        "text": "Pretend to sleep using your hands.",
+        "s": 0.37738749020575046
+    },
+    {
+        "text": "Gaze at something to your left.",
+        "s": 0.37580427469616273
+    },
+    {
+        "text": "Shake your head from side to side slowly.",
+        "s": 0.37513545817009347
+    },
+    {
+        "text": "Shake your head rapidly.",
+        "s": 0.37502783221849645
+    },
+    {
+        "text": "Sway your head from side to side rapidly.",
+        "s": 0.3741571693936617
+    },
+    {
+        "text": "Pretend to hold something heavy with both hands.",
+        "s": 0.3733852847864351
+    },
+    {
+        "text": "Wave goodbye with one hand.",
+        "s": 0.3716026787488681
+    },
+    {
+        "text": "Stomp both feet at the same time.",
+        "s": 0.3706166199107818
+    },
+    {
+        "text": "Clench your fists.",
+        "s": 0.37053418879836203
+    },
+    {
+        "text": "Stretch both feet outward.",
+        "s": 0.36967787170848854
+    },
+    {
+        "text": "Wave at someone with both hands.",
+        "s": 0.3683948087785866
+    },
+    {
+        "text": "Look to the left.",
+        "s": 0.36626775856058097
+    },
+    {
+        "text": "Rotate your head in a circle.",
+        "s": 0.36593662742930594
+    },
+    {
+        "text": "Jump up and twirl around once.",
+        "s": 0.3653275881200067
+    },
+    {
+        "text": "Nod your head three times.",
+        "s": 0.3644321995546129
+    },
+    {
+        "text": "Wave goodbye with both hands.",
+        "s": 0.3644277646060391
+    },
+    {
+        "text": "Look around you rapidly.",
+        "s": 0.36270906869542746
+    },
+    {
+        "text": "Crouch down using both feet.",
+        "s": 0.3613435300232786
+    },
+    {
+        "text": "Sway from side to side quickly.",
+        "s": 0.3605532655129024
+    },
+    {
+        "text": "Hold a pretend cup of coffee with one hand.",
+        "s": 0.3604861154395287
+    },
+    {
+        "text": "Hold a pretend coffee cup in front of you.",
+        "s": 0.3593956824672801
+    },
+    {
+        "text": "Cover your eyes with your hands.",
+        "s": 0.35926597569400737
+    },
+    {
+        "text": "March in place.",
+        "s": 0.35837888075952756
+    },
+    {
+        "text": "Pretend to swim with your feet.",
+        "s": 0.3578926957591451
+    },
+    {
+        "text": "Look down.",
+        "s": 0.3577800585618734
+    },
+    {
+        "text": "Look to the right.",
+        "s": 0.3558501587245409
+    },
+    {
+        "text": "Bring both feet back together.",
+        "s": 0.354438894923884
+    },
+    {
+        "text": "Take two small steps back.",
+        "s": 0.3535677072114181
+    },
+    {
+        "text": "Stare at the ground.",
+        "s": 0.3525779059285136
+    },
+    {
+        "text": "Look around you quickly.",
+        "s": 0.3522254648101409
+    },
+    {
+        "text": "Sway your body from side to side rapidly.",
+        "s": 0.3521557811196966
+    },
+    {
+        "text": "Sway your body from side to side slowly.",
+        "s": 0.35205583205907665
+    },
+    {
+        "text": "Sway from side to side.",
+        "s": 0.350923769928251
+    },
+    {
+        "text": "Nod your head once.",
+        "s": 0.3506912189160274
+    },
+    {
+        "text": "Hold a pretend book open in front of you.",
+        "s": 0.350098164633484
+    },
+    {
+        "text": "Look around you slowly.",
+        "s": 0.3494787244430846
+    },
+    {
+        "text": "Take three small steps back.",
+        "s": 0.3484810705550838
+    },
+    {
+        "text": "Pretend to warm your hands.",
+        "s": 0.34823070857461397
+    },
+    {
+        "text": "Spin around in a circle.",
+        "s": 0.347285198809433
+    },
+    {
+        "text": "Hold a pretend book open in front of you again.",
+        "s": 0.3466942560922705
+    },
+    {
+        "text": "Stand on one leg (randomly choose which one).",
+        "s": 0.3463838656213488
+    },
+    {
+        "text": "Uncover your eyes.",
+        "s": 0.3457204214637602
+    },
+    {
+        "text": "Spin your head in the opposite direction.",
+        "s": 0.34544111855926385
+    },
+    {
+        "text": "Sway from side to side with your body.",
+        "s": 0.34471617310528463
+    },
+    {
+        "text": "Wave at someone with both arms.",
+        "s": 0.34455594770003467
+    },
+    {
+        "text": "Wipe your feet together.",
+        "s": 0.34384541017201475
+    },
+    {
+        "text": "Give yourself a hug with both arms.",
+        "s": 0.3420255369969108
+    },
+    {
+        "text": "Make a silly face with your beak.",
+        "s": 0.3418371015395211
+    },
+    {
+        "text": "Take three small steps forward.",
+        "s": 0.3418236393348782
+    },
+    {
+        "text": "Take two small steps forward.",
+        "s": 0.33975269617827414
+    },
+    {
+        "text": "Bounce up and down on the spot.",
+        "s": 0.33932024882104544
+    },
+    {
+        "text": "Look directly at the camera.",
+        "s": 0.33874858064694535
+    },
+    {
+        "text": "Jump up and land softly on both feet.",
+        "s": 0.3383457733778067
+    },
+    {
+        "text": "Hold a pretend cup of tea in front of you.",
+        "s": 0.33792819094596915
+    },
+    {
+        "text": "Make a curious face with your beak.",
+        "s": 0.33762462321369563
+    },
+    {
+        "text": "Tickle yourself under the chin.",
+        "s": 0.3358137881793453
+    },
+    {
+        "text": "Look directly at the camera again.",
+        "s": 0.335506896024721
+    },
+    {
+        "text": "Make a surprised face with your beak.",
+        "s": 0.33516564214146644
+    },
+    {
+        "text": "Mimic holding a steering wheel with one hand.",
+        "s": 0.3329519200925286
+    },
+    {
+        "text": "Make an excited face with your beak.",
+        "s": 0.3328119059693358
+    },
+    {
+        "text": "Hop three times on the spot.",
+        "s": 0.3311667136746569
+    },
+    {
+        "text": "Jump up using both feet.",
+        "s": 0.3305786809041824
+    },
+    {
+        "text": "March in place faster.",
+        "s": 0.32886159521259384
+    },
+    {
+        "text": "Stare intensely at an object in front of you.",
+        "s": 0.3284504030496723
+    },
+    {
+        "text": "Mimic eating food with your hands.",
+        "s": 0.3279202606196089
+    },
+    {
+        "text": "Hold a pretend phone up to your ear.",
+        "s": 0.32622037701968365
+    },
+    {
+        "text": "Mimic drinking from a cup with one hand.",
+        "s": 0.3237057789058672
+    },
+    {
+        "text": "Make a happy face with your beak.",
+        "s": 0.3212162475771965
+    },
+    {
+        "text": "Look around you carefully.",
+        "s": 0.3202805113819086
+    },
+    {
+        "text": "Take three small steps forward again.",
+        "s": 0.31972011574970466
+    },
+    {
+        "text": "Mimic reading a book with both hands.",
+        "s": 0.319419294308858
+    },
+    {
+        "text": "Gaze directly at something above you.",
+        "s": 0.31760394260916625
+    },
+    {
+        "text": "Mimic typing on a keyboard with one hand.",
+        "s": 0.31735622026935933
+    },
+    {
+        "text": "March in place slower.",
+        "s": 0.317331024846937
+    },
+    {
+        "text": "Look around you carefully once more.",
+        "s": 0.3153182239027273
+    },
+    {
+        "text": "Stare intensely at something in front of you.",
+        "s": 0.3142610069385798
+    },
+    {
+        "text": "Mimic playing a guitar with one hand.",
+        "s": 0.31401077795548493
+    },
+    {
+        "text": "Look up towards something above you again.",
+        "s": 0.31309730170063393
+    },
+    {
+        "text": "Gaze at something below you.",
+        "s": 0.31077105410889433
+    },
+    {
+        "text": "Make a sad face with your beak.",
+        "s": 0.31038634723750136
+    },
+    {
+        "text": "Look up towards something above you.",
+        "s": 0.3034889782554343
+    },
+    {
+        "text": "Stare at something far away.",
+        "s": 0.2960395738344304
+    },
+    {
+        "text": "Stare at something far away.",
+        "s": 0.2960395738344304
+    },
+    {
+        "text": "Jump up and land softly on the spot, then freeze.",
+        "s": 0.2946944615493707
+    },
+    {
+        "text": "Jump over an imaginary wall.",
+        "s": 0.29167588158241503
+    },
+    {
+        "text": "Jump over an imaginary obstacle.",
+        "s": 0.28462803055639496
+    },
+    {
+        "text": "Look up.",
+        "s": 0.2827039989347132
+    },
+    {
+        "text": "Look up.",
+        "s": 0.2827039989347132
+    },
+    {
+        "text": "Jump over an invisible hurdle.",
+        "s": 0.2825703878122789
+    },
+    {
+        "text": "Jump over an invisible obstacle again.",
+        "s": 0.26251576021552664
+    },
+    {
+        "text": "Mimic eating ice cream with two spoons.",
+        "s": 0.25970425884767395
+    }
+]

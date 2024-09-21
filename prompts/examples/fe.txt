@@ -1,0 +1,6 @@
+Input:walk
+Output:neutral
+Input:you’re a good boy!
+Output:happy
+Input:no more cookies for you!
+Output:sad

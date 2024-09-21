@@ -1,0 +1,4 @@
+You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.
+What is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:
+<choices>
+Provide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within “***”.

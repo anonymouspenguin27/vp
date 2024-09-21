@@ -1,0 +1,752 @@
+[
+    {
+        "id": 1,
+        "message": "Wiggle your left hand in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Cross your hands in front of you.\nB. Cross your right foot over your left foot.\nC. Wiggle your left hand in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your right foot over your left foot.",
+                "s": 0.46868858296393473
+            },
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.49098292488312134
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "message": "Flick your left hand in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to dance with your hands.\nB. Bring your hands together.\nC. Flick your left hand in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.5065398338665484
+            },
+            {
+                "message": "Bring your hands together.",
+                "s": 0.5146679182826961
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "message": "Point your left hand forward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle both hands in the air.\nB. Point your left hand forward.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.4168149573228139
+            },
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.43660617509687183
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "message": "Wave your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wave your left hand.\nB. Pretend to dance with your hands.\nC. Tap your right foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.48725864909691896
+            },
+            {
+                "message": "Tap your right foot twice.",
+                "s": 0.5034781752968004
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "message": "Wiggle your right hand in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your right hand in the air.\nB. Cross your hands in front of you.\nC. Cross your right foot over your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your right foot over your left foot.",
+                "s": 0.46218661875540173
+            },
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.48205996455122596
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "message": "Point your right hand forward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Point your right hand forward.\nB. Wiggle both hands in the air.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.42978100547583403
+            },
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.43168400235075227
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "message": "Wave your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wave your right hand.\nB. Pretend to dance with your hands.\nC. Tap your left foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.4651037830517197
+            },
+            {
+                "message": "Tap your left foot twice.",
+                "s": 0.4904544246718371
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "message": "Shake your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Shake your left hand.\nB. Cross your hands in front of you.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.46281386031732774
+            },
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.4704297120822354
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "message": "Point both hands forward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your right foot.\nB. Point both hands forward.\nC. Wiggle your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3896597223792161
+            },
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.3914784677673973
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "message": "Stretch your right hand upward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Tap your left foot three times.\nB. Stretch your right hand upward.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.42904184787166516
+            },
+            {
+                "message": "Tap your left foot three times.",
+                "s": 0.4486075969928457
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "message": "Stretch your left hand upward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to dance with your hands.\nB. Stretch your left hand upward.\nC. Tap your right foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.42184204485570126
+            },
+            {
+                "message": "Tap your right foot twice.",
+                "s": 0.4576714933695475
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "message": "Pat your head with your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pat your head with your left hand.\nB. Wiggle both hands in the air.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.4417491813601765
+            },
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.4614644999263192
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "message": "Swing your right hand to the side.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Swing your right hand to the side.\nB. Clap your hands above your head.\nC. Hold up both hands in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.44138883195348805
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.4740675604326223
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "message": "Clap your hands behind your back.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your right foot.\nB. Shake your right foot.\nC. Clap your hands behind your back.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.42210455772159156
+            },
+            {
+                "message": "Shake your right foot.",
+                "s": 0.4268201131688807
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "message": "Swing your left hand to the side.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up both hands in the air.\nB. Swing your left hand to the side.\nC. Clap your hands above your head.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.4290537004687039
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.4445758639215214
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "message": "Shake your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Cross your hands in front of you.\nB. Shake your right hand.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.4500311124172391
+            },
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.46701105167190227
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "message": "Hold both hands together in front of you.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold both hands together in front of you.\nB. Wiggle your left foot.\nC. Wiggle your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3671866811527151
+            },
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.37413264198754287
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "message": "Pat your head with your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to dance with your hands.\nB. Pat your head with your right hand.\nC. Swing your left foot forward.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.43316620851318544
+            },
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.43565249721815885
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "message": "Point both hands upward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Swing your left foot forward.\nB. Point both hands upward.\nC. Wiggle your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.35939800180921233
+            },
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3615301013012177
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "message": "Cross your right hand over your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Cross your right hand over your left hand.\nB. Pretend to dance with your hands.\nC. Wiggle both hands in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.38306438649236757
+            },
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.4371905759080725
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "message": "Point both hands downward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your left foot.\nB. Point both hands downward.\nC. Wiggle your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3578505083823338
+            },
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.3678316599180255
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "message": "Wiggle your left foot.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up one hand in the air.\nB. Hold up both hands in the air.\nC. Wiggle your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.34338347605095354
+            },
+            {
+                "message": "Hold up one hand in the air.",
+                "s": 0.354388760099958
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "message": "Flap both hands simultaneously.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Swing your left foot forward.\nB. Shake your right foot.\nC. Flap both hands simultaneously.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Shake your right foot.",
+                "s": 0.3724230514660407
+            },
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.39207484942949267
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "message": "Clap your hands in front of you.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Clap your hands in front of you.\nB. Pretend to pick something up with your left hand.\nC. Wiggle your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.40242852466151136
+            },
+            {
+                "message": "Pretend to pick something up with your left hand.",
+                "s": 0.40345036703049253
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "message": "Pretend to push something with your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Clap your hands above your head.\nB. Pretend to push something with your right hand.\nC. Shake your head left to right.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.370040537761521
+            },
+            {
+                "message": "Shake your head left to right.",
+                "s": 0.40494401989065276
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "message": "Stretch your left hand to the left.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up both hands in the air.\nB. Clap your hands above your head.\nC. Stretch your left hand to the left.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.3956524524276828
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.4126261031483977
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "message": "Cross your left hand over your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle both hands in the air.\nB. Pretend to dance with your hands.\nC. Cross your left hand over your right hand.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.37750367159009707
+            },
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.4226344747779736
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "message": "Wiggle your right foot.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up both hands in the air.\nB. Wiggle your right foot.\nC. Cross your hands in front of you.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.34815676066484036
+            },
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.3498824185701164
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "message": "Pretend to pick something up with your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Tap your left foot three times.\nB. Pretend to pick something up with your right hand.\nC. Clap your hands above your head.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Tap your left foot three times.",
+                "s": 0.3920044332172086
+            },
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.394548545780275
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "message": "Wiggle both hands in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Cross your right foot over your left foot.\nB. Wiggle both hands in the air.\nC. Swing your left foot forward.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your right foot over your left foot.",
+                "s": 0.34606451479000044
+            },
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.3848890349496087
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "message": "Pretend to push something with your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up both hands in the air.\nB. Pretend to push something with your left hand.\nC. Clap your hands above your head.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.34833378969582207
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.4127534749765858
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "message": "Bring your hands together.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Bring your hands together.\nB. Wiggle your right foot.\nC. Wiggle your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.37668096809458756
+            },
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.3776180178697638
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "message": "Pretend to pick something up with your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Clap your hands above your head.\nB. Pretend to pick something up with your left hand.\nC. Tap your right foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.36709820603981674
+            },
+            {
+                "message": "Tap your right foot twice.",
+                "s": 0.39384047451346854
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "message": "Stretch your right hand to the right.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Clap your hands above your head.\nB. Hold up both hands in the air.\nC. Stretch your right hand to the right.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.40252361057931524
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.4264170279037731
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "message": "Move your left hand towards your mouth.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Move your left hand towards your mouth.\nB. Hold up both hands in the air.\nC. Clap your hands above your head.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.3922677326222227
+            },
+            {
+                "message": "Clap your hands above your head.",
+                "s": 0.40251645475103265
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "message": "Tap your left foot twice.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up one hand in the air.\nB. Hold up both hands in the air.\nC. Tap your left foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up one hand in the air.",
+                "s": 0.35326286927829526
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.3730503141571379
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "message": "Uncross your hands.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Uncross your hands.\nB. Wiggle your right foot.\nC. Shake your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3594372069984189
+            },
+            {
+                "message": "Shake your right foot.",
+                "s": 0.3604612836573693
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "message": "Hold up one hand in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up one hand in the air.\nB. Swing your left foot forward.\nC. Tap your left foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.31815039712854604
+            },
+            {
+                "message": "Tap your left foot twice.",
+                "s": 0.35326286927829526
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "message": "Cross your hands in front of you.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your right foot.\nB. Cross your hands in front of you.\nC. Shake your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Shake your right foot.",
+                "s": 0.3404336303629583
+            },
+            {
+                "message": "Wiggle your right foot.",
+                "s": 0.3498824185701164
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "message": "Cross your right foot over your left foot.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to dance with your hands.\nB. Wiggle both hands in the air.\nC. Cross your right foot over your left foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.3445524955797539
+            },
+            {
+                "message": "Wiggle both hands in the air.",
+                "s": 0.34606451479000044
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "message": "Swing your left foot forward.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Swing your left foot forward.\nB. Hold up one hand in the air.\nC. Hold up both hands in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up one hand in the air.",
+                "s": 0.31815039712854604
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.32824714596083004
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "message": "Pretend to dance with your hands.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to dance with your hands.\nB. Cross your right foot over your left foot.\nC. Cross your left hand over your right hand.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your right foot over your left foot.",
+                "s": 0.3445524955797539
+            },
+            {
+                "message": "Cross your left hand over your right hand.",
+                "s": 0.37750367159009707
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "message": "Hold up both hands in the air.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Wiggle your left foot.\nB. Swing your left foot forward.\nC. Hold up both hands in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.32824714596083004
+            },
+            {
+                "message": "Wiggle your left foot.",
+                "s": 0.34338347605095354
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "message": "Clap your hands above your head.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Clap your hands above your head.\nB. Swing your left foot forward.\nC. Pretend to push something with your left hand.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to push something with your left hand.",
+                "s": 0.34833378969582207
+            },
+            {
+                "message": "Swing your left foot forward.",
+                "s": 0.35334792120229647
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "message": "Shake your head left to right.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Shake your head left to right.\nB. Bring your hands together.\nC. Pretend to dance with your hands.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Pretend to dance with your hands.",
+                "s": 0.3832410861115778
+            },
+            {
+                "message": "Bring your hands together.",
+                "s": 0.39410909860211496
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "message": "Tap your right foot twice.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Uncross your hands.\nB. Tap your right foot twice.\nC. Hold up one hand in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up one hand in the air.",
+                "s": 0.36173251834821396
+            },
+            {
+                "message": "Uncross your hands.",
+                "s": 0.37485339352781527
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "message": "Pretend to yawn using your left hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Hold up both hands in the air.\nB. Tap your right foot twice.\nC. Pretend to yawn using your left hand.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Tap your right foot twice.",
+                "s": 0.37682311648091243
+            },
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.3789110278859451
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "message": "Shake your right foot.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Cross your hands in front of you.\nB. Uncross your hands.\nC. Shake your right foot.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Cross your hands in front of you.",
+                "s": 0.3404336303629583
+            },
+            {
+                "message": "Uncross your hands.",
+                "s": 0.3604612836573693
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "message": "Tap your left foot three times.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to yawn using your right hand.\nB. Tap your left foot three times.\nC. Hold up both hands in the air.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Hold up both hands in the air.",
+                "s": 0.3523810139937679
+            },
+            {
+                "message": "Pretend to yawn using your right hand.",
+                "s": 0.3681906897413406
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "message": "Pretend to yawn using your right hand.",
+        "question": "You are a professional animator for 2D graphic that is familiar with sprite sheet animation. You can analyze the motion, visual, and action of a character in a sprite sheet animation.\nWhat is the action performed by the character in the provided sprite sheet animation? Choose one from the following action that best describing the action:\n\nA. Pretend to yawn using your right hand.\nB. Tap your left foot three times.\nC. Tap your left foot twice.\nProvide the reason of your judgment. Let's think step-by-step. End the sentence with your final choice enclosed within \u201c***\u201d.",
+        "lowest_similarities": [
+            {
+                "message": "Tap your left foot three times.",
+                "s": 0.3681906897413406
+            },
+            {
+                "message": "Tap your left foot twice.",
+                "s": 0.3819522572000212
+            }
+        ]
+    }
+]

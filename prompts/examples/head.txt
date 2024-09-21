@@ -1,0 +1,6 @@
+Input:hello
+Output:[0]
+Input:dance
+Output:[0, -5, 0, 5, 0, -5, 0, 5, 0, -5, 0, 5, 0, -5, 0, 5, 0, -5, 0, 5, 0]
+Input: do you understand?
+Output:[0, 4, 6, 8, 10, 12, 15, 15, 15, 15, 15, 15, 15, 12, 10, 8, 6, 4, 2, 0]
